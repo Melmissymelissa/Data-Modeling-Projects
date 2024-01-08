@@ -38,7 +38,21 @@ Here are the business assumptions:
 - Handling cost per item: $0.18
 - One-time advertising cost: $10.00
 
-This is a comprehensive snapshot of the business's current state and serve as a foundation for further analysis and improvement: 
+This is a comprehensive snapshot of the business's current state and shows that the business has not made a profit. The total costs exceeds the total revenue: 
 
 ![Screen Shot 2024-01-08 at 2 28 51 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/c4d8a083-473a-4ac7-9e58-42a559b6dfe1)
+
+## Scenario Analysis
+After establishing a baseline and defining the input parameters I wanted to test these scenarios to assess the potential impact on profitability:
+ 
+     1. What if they buy the product in bulk so that the price of the product falls to $2.25 per piece?
+     2. What if they increase the advertising budget from $10 to $25 and then expect to sell 15% more in quantity at the same price?
+     3. What if they increase the price by 20% and expect to sell 10% fewer products at the new price?
+
+## Results
+### Scenario 1
+![Screen Shot 2024-01-08 at 2 32 53 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/bfb3686f-f3d7-4d7d-b5e0-967cd5bd0762)
+
+Because we are buying in bulk this reduces the price of the product to $2.25 per piece. This reduces our total costs by 4% and increasing profit by 60%, however we still have not broke even.
+
 
