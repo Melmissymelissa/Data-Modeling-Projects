@@ -51,8 +51,20 @@ After establishing a baseline and defining the input parameters I wanted to test
 
 ## Results
 ### Scenario 1
-![Screen Shot 2024-01-08 at 2 32 53 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/bfb3686f-f3d7-4d7d-b5e0-967cd5bd0762)
+![Screen Shot 2024-01-08 at 2 45 15 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/4e3c7eb0-a35f-4963-aee8-f29dcd116ac6)
+
 
 Because we are buying in bulk this reduces the price of the product to $2.25 per piece. This reduces our total costs by 4% and increasing profit by 60%, however we still have not broke even.
+
+![Screen Shot 2024-01-08 at 2 51 29 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/4f49e876-0951-4ec5-901e-98e8a2b27ba2)
+
+
+### Scenario 2
+![Screen Shot 2024-01-08 at 2 47 11 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/9c9ca07a-f76f-4621-965f-cfc129bca309)
+
+This scenario increases our total costs by 26%, increases revenue by 20%, however our total profit decreases by 122%
+
+![Screen Shot 2024-01-08 at 2 59 58 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/d120f872-bae4-4658-bc04-d1a79b3a540b)
+
 
 
