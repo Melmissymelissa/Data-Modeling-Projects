@@ -1,5 +1,7 @@
 # Unveiling Profitability: A Data-Driven Journey into eBay Success
 
+<a href="https://github.com/Melmissymelissa/Data-Modeling-Projects/blob/main/Project_1/Data%20Model/Cat%20Toy%20Model.xlsx">Check out my Data Model for this project</a>
+
 <!-- TABLE OF CONTENTS -->
    ## Table of Contents
    - [Introduction](#introduction)
