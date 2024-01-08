@@ -8,6 +8,7 @@
    - [Data Analysis Techniques](#DataAnalysisTechniques)
    - [Scenario Analysis](#Scenarioanalysis)
    - [Results](#results)
+   - [Recommendations](#recommendations)
 
 ## Introduction
 According to a recent study conducted by a leading business research firm, profitability modeling has shown remarkable results. The study found that companies that implemented effective profitability modeling strategies experienced an average increase in their profitability by 20% within the first year of implementation. Join me as I help a friend with their Ebay Cat Toy Business
@@ -49,6 +50,9 @@ After establishing a baseline and defining the input parameters I wanted to test
      2. What if they increase the advertising budget from $10 to $25 and then expect to sell 15% more in quantity at the same price?
      3. What if they increase the price by 20% and expect to sell 10% fewer products at the new price?
 
+![Screen Shot 2024-01-08 at 3 49 22 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/7d9c79c7-0ff9-4f8e-85fd-f932e3cf2471)
+
+
 ## Results
 ### Scenario 1
 ![Screen Shot 2024-01-08 at 2 45 15 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/4e3c7eb0-a35f-4963-aee8-f29dcd116ac6)
@@ -66,5 +70,22 @@ This scenario increases our total costs by 26%, increases revenue by 20%, howeve
 
 ![Screen Shot 2024-01-08 at 2 59 58 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/d120f872-bae4-4658-bc04-d1a79b3a540b)
 
+### Scenario 3
+![Screen Shot 2024-01-08 at 3 02 48 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/61ee4f8c-4a5e-4481-be8c-381fef3f4c9f)
 
+This scenario decreases total cost by 10%, increases revenue by 8%, and we finally make a profit.
+
+![Screen Shot 2024-01-08 at 3 09 03 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/b904ccf9-4b5c-4e87-a8db-2e0985d03a10)
+
+## Recommendations
+After reviewing the analysis results, there is a clear winner. 
+
+![Screen Shot 2024-01-08 at 3 19 18 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/f16ad464-4012-487c-a13d-cc8919092b0c)![Screen Shot 2024-01-08 at 3 40 41 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/e2111755-f318-47c5-b06a-f1e575112c34)
+
+
+I recommend implement scenario 3 and increase the price by 20%. Not only do we decrease total cost by 10%, we also increase revenue by 8% and actually make a profit. 
+
+![Screen Shot 2024-01-08 at 3 35 08 PM](https://github.com/Melmissymelissa/Data-Modeling-Projects/assets/142250108/c230c387-840d-459a-90bd-73443f738f87)
+
+We will continue to make updates to this model as well as track the performance of the strategy we will be implementing. 
 
